@@ -19,7 +19,7 @@ use state::*;
 
 declare_id!(Pubkey::new_from_array(program_id_from_env!(
     "OFT_ID",
-    "9UovNrJD8pQyBLheeHNayuG1wJSEAoxkmM14vw5gcsTT"
+    "12UJoD4VRHneWXoy1j4k3KTACP8ZYX55sS4sbwzuk8KF"
 )));
 
 pub const OFT_SEED: &[u8] = b"OFT";
